@@ -48,7 +48,3 @@ scanf("%s", choice);
         printf("You chose not to continue. Process stopped.\n");
     }
 }
-
-int main(){
-    printf("Hello World")
-}
